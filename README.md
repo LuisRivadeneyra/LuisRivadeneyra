@@ -15,11 +15,15 @@
 <br>
 <img align="right" style="margin: 50px;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="" width="350" heigth="350" />
 
-Hello! My name is Raúl Ichiro Rosas Chinen. Currently, I'm an outstanding student pursuing a degree in Computer Science at the Cibertec Institute in Peru. Also I have skills in Full Stack Development with special interest in the areas of Backend Development and Database Administration.
+Hello! I am a junior software developer specializing in backend development, with experience in Java and Spring Boot.
 
-So far, I don't have any work experience, which is why I am actively seeking internships to apply everything I have learned until now and to learn more by tackling various challenges.
+I am passionate about creating efficient APIs and scalable data management solutions.
 
-Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
+I also have experience developing web applications, mobile applications, and video games, using technologies such as C#, ASP.NET, Kotlin, HTML5, JavaScript, and SQL.
+
+I have developed Android and iOS applications, as well as Unity games published on Itch.io.
+
+I am characterized by my rapid learning ability, adaptability to new environments, and commitment to achieving goals, working proactively and collaboratively.
 
 
 
