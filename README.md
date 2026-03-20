@@ -62,7 +62,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 </picture>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=LuisRivadeneyra&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
 <div style="display: flex; align-items: center;">
