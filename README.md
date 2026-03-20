@@ -68,9 +68,9 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IchiroRosas&theme=light&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroRosas&layout=compact)
+
+
 
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
