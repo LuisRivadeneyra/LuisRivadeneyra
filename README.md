@@ -51,7 +51,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=IchiroRosas&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=LuisRivadeneyra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
