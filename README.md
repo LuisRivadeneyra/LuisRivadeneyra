@@ -68,7 +68,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
   <span style="margin-left: 15px; font-size: 50px; font-weight: 900;">
-    <strong>Contribuciones:</strong>
+    <strong>Contributions:</strong>
   </span>
 </div>
 
