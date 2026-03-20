@@ -64,20 +64,20 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  <span style="margin-left: 15px; font-size: 50px; font-weight: 900;">
+    <strong>Contribuciones:</strong>
+  </span>
+</div>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 
 
-
-
-<div style="display: flex; align-items: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
-  <span style="margin-left: 15px; font-size: 50px; font-weight: 900;">
-    <strong>Contact me:</strong>
-  </span>
-</div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
