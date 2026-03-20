@@ -66,7 +66,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-  <span style="margin-left: 8px; font-size: 20px; font-weight: bold;">Contact me:</span>
+  <span style="margin-left: 8px; font-size: 25px; font-weight: bold;">Contact me:</span>
 </div>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-ichiro-rosas-chinen/)
@@ -74,10 +74,10 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poller+One&size=50&duration=3000&pause=2000&color=06E1EE&center=true&vCenter=true&random=false&width=1000&lines=Thank+you!)](https://git.io/typing-svg)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <p align="center">
