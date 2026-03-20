@@ -14,7 +14,6 @@
 <h1>ℹ️ About me:</h1>
 <br>
 <img align="right" style="margin: 50px;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="" width="350" heigth="350" />
-
 Hello! I am a junior software developer specializing in backend development, with experience in Java and Spring Boot.
 
 I am passionate about creating efficient APIs and scalable data management solutions.
