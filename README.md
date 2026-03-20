@@ -64,9 +64,9 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroRosas&layout=compact)
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
-  <h1>Contact me:</h1>
+  <h1 style="margin: 0 0 0 10px;">Contact me:</h1>
 </div>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-ichiro-rosas-chinen/)
