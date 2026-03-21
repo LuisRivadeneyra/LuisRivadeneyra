@@ -48,7 +48,20 @@ I am characterized by my rapid learning ability, adaptability to new environment
 ![MySQLWorkbench](https://img.shields.io/badge/MySQLWorkbench-darkblue?style=flat-square&logo=mysql&logoColor=white)
 ![**Postman**](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![MongoDB Shell](https://img.shields.io/badge/MongoDB_Shell-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JasperReports](https://img.shields.io/badge/JasperReports-FF8000?style=flat-square&logo=jasperreports&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira_Software-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Jira Service](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
 <h1>📊 GitHub Stats:</h1>
 
