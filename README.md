@@ -75,6 +75,11 @@ I am characterized by my rapid learning ability, adaptability to new environment
   <img src="https://github-readme-stats.vercel.app/api?username=LuisRivadeneyra&show_icons=true" />
 </picture>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuisRivadeneyra&theme=light&hide_border=false)<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivadeneyra&layout=compact)
+
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
   <span style="margin-left: 15px; font-size: 50px; font-weight: 900;">
