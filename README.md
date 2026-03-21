@@ -81,8 +81,7 @@ I am characterized by my rapid learning ability, adaptability to new environment
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-rivadeneyra-dev)
-
-[![HOTMAIL](https://img.shields.io/badge/HOTMAIL-%230078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:luis18_rivadeneyra@hotmail.com)
+[![OUTLOOK](https://img.shields.io/badge/OUTLOOK-%230078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:luis18_rivadeneyra@hotmail.com)
 
 <br><br>
 
